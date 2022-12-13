@@ -1,14 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.c1831357.css",
-    "main.js": "./static/js/main.ee4ed646.js",
+    "main.js": "./static/js/main.0045fdcc.js",
+    "static/media/shirt6.glb": "./static/media/shirt6.97911168e84d05cb9df2.glb",
+    "static/media/shirt5.glb": "./static/media/shirt5.a27e0e0c9b1dcc70aeb9.glb",
+    "static/media/shirt4.glb": "./static/media/shirt4.1b2c618eb32912b889ff.glb",
     "static/media/Shirts.jpg": "./static/media/Shirts.9626bee24b9eab6ddc13.jpg",
+    "static/media/TheAddamsFamily.JPG": "./static/media/TheAddamsFamily.b0064a0e7f38a89682a0.JPG",
     "index.html": "./index.html",
     "main.c1831357.css.map": "./static/css/main.c1831357.css.map",
-    "main.ee4ed646.js.map": "./static/js/main.ee4ed646.js.map"
+    "main.0045fdcc.js.map": "./static/js/main.0045fdcc.js.map"
   },
   "entrypoints": [
     "static/css/main.c1831357.css",
-    "static/js/main.ee4ed646.js"
+    "static/js/main.0045fdcc.js"
   ]
 }
